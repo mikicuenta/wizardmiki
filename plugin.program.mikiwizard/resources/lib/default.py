@@ -12,7 +12,7 @@ dialog = xbmcgui.Dialog()
 
 # URL directa del build
 build_url = build_url = 
-https://dl.dropboxusercontent.com/scl/fi/cq6q3xmomojweenzef96p/plugin.program.mikiwizard_standard.zip?rlkey=pljrqd3zavb53svpaapj8zz17&st=tvvcxifu&dl=0
+https://github.com/mikicuenta/wizardmiki/tree/main/plugin.program.mikiwizard
 
 # Paths
 home_path = xbmc.translatePath("special://home/")
